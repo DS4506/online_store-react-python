@@ -1,0 +1,17 @@
+.about{
+    background-color: orangered;
+}
+
+
+.about h1{
+    color:yellow;
+}
+
+.about h4{
+    color: yellow;
+}
+
+.about image{
+    width: 500px;
+    height: 500px;
+}

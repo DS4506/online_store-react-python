@@ -1,0 +1,9 @@
+.quantityPicker button {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .quantityPicker label {
+    font-weight: 600;
+    color: #293241;
+  }

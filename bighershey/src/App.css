@@ -1,0 +1,13 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: yellow;
+  color: red; /* Set text color to red */
+}
+
+.App {
+  text-align: center;
+}

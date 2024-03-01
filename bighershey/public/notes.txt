@@ -1,0 +1,25 @@
+# initialize a repository
+git init
+
+# set the remove server (github)
+git remote add origin <REPO_URL>
+
+# added files to be staged
+git add .
+v
+# create the commit (snapshot)
+git commit -m "MESSAGE"
+
+
+# push for the first time
+git push -u origin main
+or 
+git push -u origin master
+
+
+
+# push for the n-th time
+git push
+
+py  server.py run server
+--
